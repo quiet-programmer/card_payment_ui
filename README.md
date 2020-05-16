@@ -1,6 +1,7 @@
 ## Card Payment UI
 
 A sample Flutter Application UI for Card Payment.
+I'm still working on the app and will push the new update after working on somethings
 
 ## Getting Started
 
